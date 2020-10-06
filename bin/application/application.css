@@ -1,0 +1,18 @@
+.AnchorPane {
+	-fx-background-color: #1d1d1d;
+}
+
+.bouton {
+	-fx-font-weight: bold;
+}
+
+.btnEgal {
+	-fx-background-color: rgb(255,128,0);
+	-fx-font-weight: bold;
+}
+
+.result {
+	-fx-background-color: rgb(224,224,224);
+	-fx-border-radius: 10px;
+	-fx-alignment: center-right;
+}
